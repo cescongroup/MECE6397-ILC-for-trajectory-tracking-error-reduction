@@ -12,7 +12,7 @@ Affiliation: University Of Houston
 
 This project has been devoloped using MATLAB 2024b, in Ubuntu 20.04.  
 
-A cascaded PID developed by C. Luis and J. Le Ny [1] is used as nominal control architecture to track a circular orbitral trajectory. This project implements an ILC to reduce the tracking error deriving from the execution of the PID controller. 
+A cascaded PID developed by C. Luis and J. Le Ny [1] is used as nominal control architecture to track a circular orbital trajectory as described in [2]. This project implements an ILC to reduce the tracking error deriving from the execution of the PID controller. 
 
 To obtain simulation outputs, assuming MATLAB and SIMULINK are already installed:
 
@@ -33,3 +33,5 @@ To obtain simulation outputs, assuming MATLAB and SIMULINK are already installed
 
 
 [1] C. Luis and J. Le Ny, "Design of a Trajectory Tracking Controller for a Nanoquadcopter”, Technical report, Mobile Robotics and Autonomous Systems Laboratory, Polytechnique Montreal, August, 2016. Source code can be accessed at this github repository: https://github.com/cipherlab-poly/crazyflie-public.git. 
+[2] A. De la Barcena et al. Testing spacecraft formation flying with Crazyflie drones as satellite surrogates. In 2024 IEEE Aerospace Conference, pp. 1–9,2024. 
+
