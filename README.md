@@ -1,4 +1,4 @@
-# MECE6397-ILC-fro-trajectory-tracking-error-reduction
+# MECE6397-ILC-for-trajectory-tracking-error-reduction
 
 Author: Lea Prade NJOUA DONGMO
 
