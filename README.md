@@ -33,5 +33,6 @@ To obtain simulation outputs, assuming MATLAB and SIMULINK are already installed
 
 
 [1] C. Luis and J. Le Ny, "Design of a Trajectory Tracking Controller for a Nanoquadcopter”, Technical report, Mobile Robotics and Autonomous Systems Laboratory, Polytechnique Montreal, August, 2016. Source code can be accessed at this github repository: https://github.com/cipherlab-poly/crazyflie-public.git. 
+
 [2] A. De la Barcena et al. Testing spacecraft formation flying with Crazyflie drones as satellite surrogates. In 2024 IEEE Aerospace Conference, pp. 1–9,2024. 
 
